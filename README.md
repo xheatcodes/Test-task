@@ -1,2 +1,9 @@
-# Test-task
-solving the task
+Запуск:
+```
+node algo "155 26"
+```
+
+Генерация тестов:
+```
+node test_gen
+```
